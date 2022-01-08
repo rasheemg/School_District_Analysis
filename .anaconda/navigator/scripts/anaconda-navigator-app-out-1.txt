@@ -1,0 +1,14 @@
+
+(base) C:\Users\Sheem>chcp 1252 
+Active code page: 1252
+
+(base) C:\Users\Sheem>call C:\Users\Sheem\anaconda3\Scripts\activate C:\Users\Sheem\anaconda3\envs\PythonData 
+
+(PythonData) C:\Users\Sheem>jupyter-notebook  1>nul 2>nul 
+
+(base) C:\Users\Sheem>chcp 1252 
+Active code page: 1252
+
+(base) C:\Users\Sheem>call C:\Users\Sheem\anaconda3\Scripts\activate C:\Users\Sheem\anaconda3\envs\PythonData 
+
+(PythonData) C:\Users\Sheem>jupyter-notebook  1>nul 2>nul 

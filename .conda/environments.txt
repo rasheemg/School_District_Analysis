@@ -1,0 +1,2 @@
+C:\Users\Sheem\anaconda3
+C:\Users\Sheem\anaconda3\envs\PythonData
